@@ -1,0 +1,97 @@
+Ticker,Name,Sector,Asset Class,Market Value,Weight (%),Notional Value,Shares,Price,Location,Exchange,Currency,FX Rate
+AENA,AENA SME SA,Industrials,Equity,"172,110,531.19",5.02,"172,110,531.19","1,160,108.00",148.36,Spain,Bolsa De Madrid,USD,0.95
+ENB,ENBRIDGE INC,Energy,Equity,"166,198,806.02",4.85,"166,198,806.02","4,955,309.00",33.54,Canada,Toronto Stock Exchange,USD,1.35
+TCL,TRANSURBAN GROUP STAPLED UNITS,Industrials,Equity,"156,249,185.33",4.56,"156,249,185.33","19,173,993.00",8.15,Australia,Asx - All Markets,USD,1.56
+NEE,NEXTERA ENERGY INC,Utilities,Equity,"140,259,544.60",4.09,"140,259,544.60","2,457,245.00",57.08,United States,New York Stock Exchange Inc.,USD,1.00
+SO,SOUTHERN,Utilities,Equity,"112,384,023.75",3.28,"112,384,023.75","1,727,125.00",65.07,United States,New York Stock Exchange Inc.,USD,1.00
+DUK,DUKE ENERGY CORP,Utilities,Equity,"108,327,231.36",3.16,"108,327,231.36","1,221,552.00",88.68,United States,New York Stock Exchange Inc.,USD,1.00
+GET,GETLINK,Industrials,Equity,"104,791,367.01",3.06,"104,791,367.01","6,624,779.00",15.82,France,Nyse Euronext - Euronext Paris,USD,0.95
+PAC,GRUPO AEROPORTUARIO DEL PACIFICO A,Industrials,Equity,"104,436,750.76",3.05,"104,436,750.76","597,601.00",174.76,Mexico,New York Stock Exchange Inc.,USD,1.00
+IBE,IBERDROLA SA,Utilities,Equity,"103,905,552.39",3.03,"103,905,552.39","9,306,288.00",11.17,Spain,Bolsa De Madrid,USD,0.95
+LNG,CHENIERE ENERGY INC,Energy,Equity,"102,803,368.80",3.00,"102,803,368.80","608,520.00",168.94,United States,Nyse Mkt Llc,USD,1.00
+WMB,WILLIAMS INC,Energy,Equity,"102,564,992.34",2.99,"102,564,992.34","2,980,674.00",34.41,United States,New York Stock Exchange Inc.,USD,1.00
+AIA,AUCKLAND INTERNATIONAL AIRPORT LTD,Industrials,Equity,"93,305,554.25",2.72,"93,305,554.25","19,927,708.00",4.68,New Zealand,New Zealand Exchange Ltd,USD,1.68
+TRP,TC ENERGY CORP,Energy,Equity,"86,201,206.99",2.52,"86,201,206.99","2,490,903.00",34.61,Canada,Toronto Stock Exchange,USD,1.35
+KMI,KINDER MORGAN INC,Energy,Equity,"80,711,022.31",2.36,"80,711,022.31","4,841,693.00",16.67,United States,New York Stock Exchange Inc.,USD,1.00
+ASR,GRUPO AEROPORTUARIO ADR REPRESENTI,Industrials,Equity,"79,841,146.80",2.33,"79,841,146.80","310,920.00",256.79,Mexico,New York Stock Exchange Inc.,USD,1.00
+ENEL,ENEL,Utilities,Equity,"74,952,046.33",2.19,"74,952,046.33","12,259,357.00",6.11,Italy,Borsa Italiana,USD,0.95
+NG.,NATIONAL GRID PLC,Utilities,Equity,"72,501,017.60",2.12,"72,501,017.60","6,150,584.00",11.79,United Kingdom,London Stock Exchange,USD,0.82
+ALX,ATLAS ARTERIA STAPLED UNITS,Industrials,Equity,"72,342,024.69",2.11,"72,342,024.69","20,112,597.00",3.60,Australia,Asx - All Markets,USD,1.56
+OKE,ONEOK INC,Energy,Equity,"70,993,228.95",2.07,"70,993,228.95","1,094,055.00",64.89,United States,New York Stock Exchange Inc.,USD,1.00
+SRE,SEMPRA,Utilities,Equity,"67,609,656.18",1.97,"67,609,656.18","997,634.00",67.77,United States,New York Stock Exchange Inc.,USD,1.00
+9706,JAPAN AIRPORT TERMINAL LTD,Industrials,Equity,"64,090,104.09",1.87,"64,090,104.09","1,539,100.00",41.64,Japan,Tokyo Stock Exchange,USD,149.40
+AEP,AMERICAN ELECTRIC POWER INC,Utilities,Equity,"60,818,565.66",1.77,"60,818,565.66","814,498.00",74.67,United States,NASDAQ,USD,1.00
+FHZN,FLUGHAFEN ZUERICH AG,Industrials,Equity,"59,846,331.90",1.75,"59,846,331.90","314,339.00",190.39,Switzerland,SIX Swiss Exchange,USD,0.92
+EXC,EXELON CORP,Utilities,Equity,"59,751,305.92",1.74,"59,751,305.92","1,577,384.00",37.88,United States,NASDAQ,USD,1.00
+D,DOMINION ENERGY INC,Utilities,Equity,"58,300,509.26",1.70,"58,300,509.26","1,320,809.00",44.14,United States,New York Stock Exchange Inc.,USD,1.00
+ADP,AEROPORTS DE PARIS SA,Industrials,Equity,"53,619,702.23",1.56,"53,619,702.23","456,902.00",117.36,France,Nyse Euronext - Euronext Paris,USD,0.95
+OMAB,GRUPO AEROPORTUARIO DEL CENTRO NOR,Industrials,Equity,"53,327,775.00",1.56,"53,327,775.00","561,345.00",95.00,Mexico,NASDAQ,USD,1.00
+QUB,QUBE HOLDINGS LTD,Industrials,Equity,"53,019,930.67",1.55,"53,019,930.67","29,117,975.00",1.82,Australia,Asx - All Markets,USD,1.56
+XEL,XCEL ENERGY INC,Utilities,Equity,"49,374,363.39",1.44,"49,374,363.39","868,197.00",56.87,United States,NASDAQ,USD,1.00
+TRGP,TARGA RESOURCES CORP,Energy,Equity,"48,439,836.32",1.41,"48,439,836.32","553,978.00",87.44,United States,New York Stock Exchange Inc.,USD,1.00
+ED,CONSOLIDATED EDISON INC,Utilities,Equity,"48,112,917.10",1.40,"48,112,917.10","562,790.00",85.49,United States,New York Stock Exchange Inc.,USD,1.00
+PEG,PUBLIC SERVICE ENTERPRISE GROUP IN,Utilities,Equity,"44,850,129.56",1.31,"44,850,129.56","791,566.00",56.66,United States,New York Stock Exchange Inc.,USD,1.00
+ENGI,ENGIE SA,Utilities,Equity,"44,667,675.61",1.30,"44,667,675.61","2,939,041.00",15.20,France,Nyse Euronext - Euronext Paris,USD,0.95
+PCG,PG&E CORP,Utilities,Equity,"41,588,708.92",1.21,"41,588,708.92","2,554,589.00",16.28,United States,New York Stock Exchange Inc.,USD,1.00
+PPL,PEMBINA PIPELINE CORP,Energy,Equity,"40,774,646.12",1.19,"40,774,646.12","1,350,235.00",30.20,Canada,Toronto Stock Exchange,USD,1.35
+WEC,WEC ENERGY GROUP INC,Utilities,Equity,"39,980,738.80",1.17,"39,980,738.80","500,510.00",79.88,United States,New York Stock Exchange Inc.,USD,1.00
+RWE,RWE AG,Utilities,Equity,"39,311,600.72",1.15,"39,311,600.72","1,073,135.00",36.63,Germany,Xetra,USD,0.95
+EIX,EDISON INTERNATIONAL,Utilities,Equity,"38,484,222.87",1.12,"38,484,222.87","605,193.00",63.59,United States,New York Stock Exchange Inc.,USD,1.00
+AWK,AMERICAN WATER WORKS INC,Utilities,Equity,"37,853,419.06",1.10,"37,853,419.06","306,307.00",123.58,United States,New York Stock Exchange Inc.,USD,1.00
+FRA,FRAPORT FRANKFURT AIRPORT SERVICES,Industrials,Equity,"31,935,740.56",0.93,"31,935,740.56","610,903.00",52.28,Germany,Xetra,USD,0.95
+ES,EVERSOURCE ENERGY,Utilities,Equity,"31,694,153.28",0.92,"31,694,153.28","552,548.00",57.36,United States,New York Stock Exchange Inc.,USD,1.00
+144,CHINA MERCHANTS PORT HOLDINGS LTD,Industrials,Equity,"27,907,429.15",0.81,"27,907,429.15","22,452,000.00",1.24,China,Hong Kong Exchanges And Clearing Ltd,USD,7.83
+S58,SATS LTD,Industrials,Equity,"27,070,731.80",0.79,"27,070,731.80","14,451,118.00",1.87,Singapore,Singapore Exchange,USD,1.37
+177,JIANGSU EXPRESSWAY LTD H,Industrials,Equity,"18,374,580.83",0.54,"18,374,580.83","20,230,000.00",0.91,China,Hong Kong Exchanges And Clearing Ltd,USD,7.83
+1199,COSCO SHIPPING PORTS LTD,Industrials,Equity,"18,235,773.10",0.53,"18,235,773.10","28,436,000.00",0.64,China,Hong Kong Exchanges And Clearing Ltd,USD,7.83
+576,ZHEJIANG EXPRESSWAY LTD H,Industrials,Equity,"16,766,198.05",0.49,"16,766,198.05","22,512,000.00",0.74,China,Hong Kong Exchanges And Clearing Ltd,USD,7.83
+ENAV,ENAV SPA,Industrials,Equity,"15,414,198.20",0.45,"15,414,198.20","4,188,471.00",3.68,Italy,Borsa Italiana,USD,0.95
+EBR,CENTRAIS ELETRICAS BRASILEIRAS ELE,Utilities,Equity,"14,419,991.30",0.42,"14,419,991.30","2,016,782.00",7.15,Brazil,New York Stock Exchange Inc.,USD,1.00
+NS8U,HUTCHISON PORT HOLDINGS UNITS TRUS,Industrials,Equity,"14,150,443.00",0.41,"14,150,443.00","83,237,900.00",0.17,Singapore,Singapore Exchange,USD,1.00
+152,SHENZHEN INTERNATIONAL HOLDINGS LT,Industrials,Equity,"13,894,809.62",0.41,"13,894,809.62","22,898,500.00",0.61,China,Hong Kong Exchanges And Clearing Ltd,USD,7.83
+KEY,KEYERA CORP,Energy,Equity,"13,293,635.35",0.39,"13,293,635.35","559,672.00",23.75,Canada,Toronto Stock Exchange,USD,1.35
+DTM,DT MIDSTREAM INC,Energy,Equity,"12,612,079.80",0.37,"12,612,079.80","236,580.00",53.31,United States,New York Stock Exchange Inc.,USD,1.00
+694,BEIJING CAPITAL INTERNATIONAL AIRP,Industrials,Equity,"12,471,168.06",0.36,"12,471,168.06","27,734,000.00",0.45,China,Hong Kong Exchanges And Clearing Ltd,USD,7.83
+WTE,WESTSHORE TERMINALS INVESTMENT COR,Industrials,Equity,"11,197,423.90",0.33,"11,197,423.90","599,989.00",18.66,Canada,Toronto Stock Exchange,USD,1.35
+ETRN,EQUITRANS MIDSTREAM CORP,Energy,Equity,"10,664,533.72",0.31,"10,664,533.72","1,115,537.00",9.56,United States,New York Stock Exchange Inc.,USD,1.00
+548,SHENZHEN EXPRESSWAY CORP LTD H,Industrials,Equity,"8,248,208.02",0.24,"8,248,208.02","10,184,000.00",0.81,China,Hong Kong Exchanges And Clearing Ltd,USD,7.83
+1052,YUEXIU TRANSPORT INFRASTRUCTURE LT,Industrials,Equity,"8,153,927.91",0.24,"8,153,927.91","15,606,000.00",0.52,China,Hong Kong Exchanges And Clearing Ltd,USD,7.83
+DBI,DALRYMPLE BAY INFRASTRUCTURE STAPL,Industrials,Equity,"7,436,813.92",0.22,"7,436,813.92","4,157,412.00",1.79,Australia,Asx - All Markets,USD,1.56
+S59,SIA ENGINEERING LTD,Industrials,Equity,"7,325,567.10",0.21,"7,325,567.10","4,242,000.00",1.73,Singapore,Singapore Exchange,USD,1.37
+CAAP,CORPORACION AMERICA AIRPORTS SA,Industrials,Equity,"6,640,692.99",0.19,"6,640,692.99","483,663.00",13.73,Argentina,New York Stock Exchange Inc.,USD,1.00
+GTT,GAZTRANSPORT & TECHNIGAZ SA,Energy,Equity,"6,620,190.19",0.19,"6,620,190.19","53,567.00",123.59,France,Nyse Euronext - Euronext Paris,USD,0.95
+SBS,COMPANHIA DE SANEAMENTO BASICO DO,Utilities,Equity,"6,338,578.60",0.18,"6,338,578.60","544,084.00",11.65,Brazil,New York Stock Exchange Inc.,USD,1.00
+EURN,EURONAV NV,Energy,Equity,"6,195,596.35",0.18,"6,195,596.35","359,839.00",17.22,Belgium,Nyse Euronext - Euronext Brussels,USD,0.95
+FRO,FRONTLINE,Energy,Equity,"5,925,120.06",0.17,"5,925,120.06","327,519.00",18.09,Norway,Oslo Bors Asa,USD,10.74
+CIG,COMPANHIA ENERGETICA MINAS GERAIS,Utilities,Equity,"5,751,509.52",0.17,"5,751,509.52","2,338,012.00",2.46,Brazil,New York Stock Exchange Inc.,USD,1.00
+135,KUNLUN ENERGY LTD,Utilities,Equity,"5,464,506.03",0.16,"5,464,506.03","6,356,000.00",0.86,China,Hong Kong Exchanges And Clearing Ltd,USD,7.83
+836,CHINA RESOURCES POWER LTD,Utilities,Equity,"5,431,174.19",0.16,"5,431,174.19","2,908,000.00",1.87,China,Hong Kong Exchanges And Clearing Ltd,USD,7.83
+GEI,GIBSON ENERGY INC,Energy,Equity,"5,035,063.72",0.15,"5,035,063.72","351,946.00",14.31,Canada,Toronto Stock Exchange,USD,1.35
+1816,CGN POWER LTD H,Utilities,Equity,"4,609,280.85",0.13,"4,609,280.85","17,774,000.00",0.26,China,Hong Kong Exchanges And Clearing Ltd,USD,7.83
+916,CHINA LONGYUAN POWER GROUP CORP LT,Utilities,Equity,"4,468,388.28",0.13,"4,468,388.28","5,252,000.00",0.85,China,Hong Kong Exchanges And Clearing Ltd,USD,7.83
+384,CHINA GAS HOLDINGS LTD,Utilities,Equity,"4,448,902.71",0.13,"4,448,902.71","4,777,200.00",0.93,China,Hong Kong Exchanges And Clearing Ltd,USD,7.83
+XTSLA,BLK CSH FND TREASURY SL AGENCY,Cash and/or Derivatives,Money Market,"4,290,000.00",0.13,"4,290,000.00","4,290,000.00",1.00,United States,--,USD,1.00
+AUD,AUD CASH,Cash and/or Derivatives,Cash,"4,136,107.03",0.12,"4,136,107.03","6,451,075.00",64.11,Australia,--,USD,1.56
+1193,CHINA RESOURCES GAS GROUP LTD,Utilities,Equity,"4,100,636.82",0.12,"4,100,636.82","1,417,200.00",2.89,China,Hong Kong Exchanges And Clearing Ltd,USD,7.83
+CAD,CAD CASH,Cash and/or Derivatives,Cash,"3,704,590.30",0.11,"3,704,590.30","5,000,271.00",74.09,Canada,--,USD,1.35
+270,GUANGDONG INVESTMENT LTD,Utilities,Equity,"3,372,096.14",0.10,"3,372,096.14","4,474,000.00",0.75,China,Hong Kong Exchanges And Clearing Ltd,USD,7.83
+357,HAINAN MEILAN INTERNATIONAL AIRPOR,Industrials,Equity,"2,463,576.03",0.07,"2,463,576.03","2,857,000.00",0.86,China,Hong Kong Exchanges And Clearing Ltd,USD,7.83
+HKD,HKD CASH,Cash and/or Derivatives,Cash,"1,707,626.53",0.05,"1,707,626.53","13,367,215.00",12.77,Hong Kong,--,USD,7.83
+EUR,EUR CASH,Cash and/or Derivatives,Cash,"1,281,036.45",0.04,"1,281,036.45","1,212,758.00",105.63,European Union,--,USD,0.95
+004360,SEBANG LTD,Industrials,Equity,"1,229,811.49",0.04,"1,229,811.49","150,454.00",8.17,Korea (South),Korea Exchange (Stock Market),USD,"1,349.40"
+SGD,SGD CASH,Cash and/or Derivatives,Cash,"765,563.54",0.02,"765,563.54","1,046,219.00",73.17,Singapore,--,USD,1.37
+NZD,NZD CASH,Cash and/or Derivatives,Cash,"758,330.31",0.02,"758,330.31","1,273,007.00",59.57,New Zealand,--,USD,1.68
+KRW,KRW CASH,Cash and/or Derivatives,Cash,"403,901.97",0.01,"403,901.97","545,025,323.00",0.07,Korea (South),--,USD,"1,349.40"
+SGAFT,CASH COLLATERAL AUD SGAFT,Cash and/or Derivatives,Cash Collateral and Margins,"380,201.95",0.01,"380,201.95","593,000.00",64.11,Australia,--,USD,1.56
+SGAFT,CASH COLLATERAL EUR SGAFT,Cash and/or Derivatives,Cash Collateral and Margins,"365,479.80",0.01,"365,479.80","346,000.00",105.63,European Union,--,USD,0.95
+SGAFT,CASH COLLATERAL CAD SGAFT,Cash and/or Derivatives,Cash Collateral and Margins,"302,278.20",0.01,"302,278.20","408,000.00",74.09,Canada,--,USD,1.35
+SGAFT,CASH COLLATERAL USD SGAFT,Cash and/or Derivatives,Cash Collateral and Margins,"264,000.00",0.01,"264,000.00","264,000.00",100.00,United States,--,USD,1.00
+JPY,JPY CASH,Cash and/or Derivatives,Cash,"242,941.70",0.01,"242,941.70","36,294,276.00",0.67,Japan,--,USD,149.40
+CHF,CHF CASH,Cash and/or Derivatives,Cash,"218,195.22",0.01,"218,195.22","199,987.00",109.10,Switzerland,--,USD,0.92
+GBP,GBP CASH,Cash and/or Derivatives,Cash,"182,435.56",0.01,"182,435.56","149,568.00",121.98,United Kingdom,--,USD,0.82
+DKK,DKK CASH,Cash and/or Derivatives,Cash,"119,218.49",0.00,"119,218.49","841,724.00",14.16,Denmark,--,USD,7.06
+NOK,NOK CASH,Cash and/or Derivatives,Cash,"90,609.13",0.00,"90,609.13","973,260.00",9.31,Norway,--,USD,10.74
+DJEZ3,DOW JONES US REAL ESTATE DEC 23,Cash and/or Derivatives,Futures,0.00,0.00,"3,640,800.00",120.00,303.40,--,Chicago Board Of Trade,USD,1.00
+IBV3,IBEX 35 INDEX OCT 23,Cash and/or Derivatives,Futures,0.00,0.00,"4,385,913.93",44.00,"9,967.99",--,Meff Renta Variable,USD,0.95
+XPZ3,SPI 200 DEC 23,Cash and/or Derivatives,Futures,0.00,0.00,"4,747,459.29",42.00,"4,521.38",--,Asx - Trade24,USD,1.56
+PTZ3,S&P/TSE 60 INDEX DEC 23,Cash and/or Derivatives,Futures,0.00,0.00,"5,943,293.20",34.00,874.01,--,The Montreal Exchange / Bourse De Montreal,USD,1.35
