@@ -6,14 +6,20 @@ Using Python and libraries (yfinance, pandas, matplotlib, csv, and os), we perfo
 
 1.	What country has the largest weight in the index? How are the stocks labeled under that country’s trending?
     -	Created a bar chart to compare the over market capitalizations by country. 
+        - ![Market Cap By Country](./output_files/country_market_value.png)
     -	Plotted the closing prices of the largest country’s stocks on a line chart. 
+        - ![USA Stocks Over Time](./output_files/american_stock_performance.png)
 2.	What sectors make up the infrastructure? And how do their performances compare to each other? 
     -	Created a pie chart to show the percentage make-up of the index by sector.
+        - ![Sector Makeup](./output_files/sector_market_value.png)
     -	Plotted the closing prices of the largest stock (by market capitalization) in each sector to represent the entire sector within the index.
+        - ![Largest Stocks By Market Cap](./output_files/topsectorstockanalysis.png)
 3.	After visualizing the performance of each sector, do any of them appear to be correlated? If so, is the correlation significant?
     -	The utilities sector and the energy sector appear to be trending in the same direction.
         -	Null Hypothesis: There is no significant correlation between the utilities sector and the energy sector. 
     -	Plotted the daily percentage difference in closing prices on a histogram to see if the distributions are “Normal”. 
+        - ![Percentage Difference Histogram](./output_files/distribution_occurrences_percentile_changes.png)
+        - ![Percentage Difference Box and Whisker](./output_files/percentage_changes_box_whisker.png)
     -	Once determined to be “Normal”, we used the t-test to determine the p-value of the data. 
     -	If the data is > 0.05 then the correlation between the two sectors is insignificant, and the Null Hypothesis remains True. If < 0.05 then reject the Null Hypothesis.
 
