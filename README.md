@@ -87,7 +87,7 @@ In this section, the code analyzes the sector makeup of the stock index and pres
 -   Excludes the "Cash and/or Derivatives" sector from the analysis.
 -   Plots a pie chart to visualize the sector distribution within the stock index.
 
-## Results from Hypothesis Testing and Statistical Tests
+## Hypothesis Testing and Statistical Tests
 1.	What country has the largest weight in the index? How are the stocks labeled under that country’s trending?
     -	Created a bar chart to compare the over-market capitalizations by country.
   
